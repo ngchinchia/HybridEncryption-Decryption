@@ -1,0 +1,3 @@
+Welcome to CSCI301
+
+This is sample textfile 3.
